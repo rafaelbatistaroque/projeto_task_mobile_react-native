@@ -11,9 +11,9 @@ O Projeto tem como objetivo aprimorar habilidades pessoais em front-end com Reac
 
 ## 📦 Pacotes
 
-### Desenvolvimento:
+- ### Desenvolvimento:
   - [react-native-svg-transformer](https://www.npmjs.com/package/react-native-svg-transformer) - 0.14.3
-### Produção:
+- ### Produção:
   - [react-native-svg](https://github.com/react-native-svg/react-native-svg) - 12.1.0
 
 ## 🖵 Screen
@@ -21,12 +21,12 @@ O Projeto tem como objetivo aprimorar habilidades pessoais em front-end com Reac
 ...
 
 ## 🎨 Paleta de Cores
-- https://via.placeholder.com/100/020873/F2F2F2?Text=cor-primaria
-- https://via.placeholder.com/100/575FFF/F2F2F2?Text=cor-secundaria
-- https://via.placeholder.com/100/60D16F/F2F2F2?Text=cor-enfase
-- https://via.placeholder.com/100/e65757/F2F2F2?Text=cor-erro
-- https://via.placeholder.com/100/f8f8f8/333333?Text=cor-background-body
-- https://via.placeholder.com/100/333333/F2F2F2?Text=cor-texto
+- ![#020873](https://via.placeholder.com/15/020873/020873?Text=+)` cor-primaria: #020873`
+- ![#575FFF](https://via.placeholder.com/15/575FFF/575FFF?Text=+)` cor-secundaria: #575FFF`
+- ![#60D16F](https://via.placeholder.com/15/60D16F/60D16F?Text=+)` cor-enfase: #60D16F`
+- ![#e65757](https://via.placeholder.com/15/e65757/e65757?Text=+)` cor-erro: #e65757`
+- ![#f8f8f8](https://via.placeholder.com/15/f8f8f8/f8f8f8?Text=+)` cor-background-body: #f8f8f8`
+- ![#333333](https://via.placeholder.com/15/333333/333333?Text=+)` cor-texto: #333333`
 
 ## 𝓐 Tipografia
 - Poppins
