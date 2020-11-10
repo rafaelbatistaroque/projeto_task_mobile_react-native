@@ -11,18 +11,32 @@ O Projeto tem como objetivo aprimorar habilidades pessoais em front-end com Reac
 
 ## 📦 Pacotes
 
-- ...
+### Desenvolvimento:
+  - [react-native-svg-transformer](https://www.npmjs.com/package/react-native-svg-transformer) - 0.14.3
+### Produção:
+  - [react-native-svg](https://github.com/react-native-svg/react-native-svg) - 12.1.0
 
 ## 🖵 Screen
 
 ...
+
+## 🎨 Paleta de Cores
+- https://via.placeholder.com/100/020873/F2F2F2?Text=cor-primaria
+- https://via.placeholder.com/100/575FFF/F2F2F2?Text=cor-secundaria
+- https://via.placeholder.com/100/60D16F/F2F2F2?Text=cor-enfase
+- https://via.placeholder.com/100/e65757/F2F2F2?Text=cor-erro
+- https://via.placeholder.com/100/f8f8f8/333333?Text=cor-background-body
+- https://via.placeholder.com/100/333333/F2F2F2?Text=cor-texto
+
+## 𝓐 Tipografia
+- Poppins
 
 ## 🖥️ Features
 
 - ❌ Front-MOBILE
   - ❌ Estrutura inicial
     - ✔️ Assets
-    - ❌ Header
+    - ✔️ Header
     - ❌ Footer
     - ❌ Body
   - ❌ Componentes
